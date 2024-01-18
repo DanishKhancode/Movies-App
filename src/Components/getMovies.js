@@ -346,5 +346,10 @@ export const movies = {
     total_results: 10000,
   };
   
-  //db -> fetch() -> take time -> loader 
+  //db -> fetch() -> take time -> loader
   
+
+
+
+
+
